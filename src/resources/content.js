@@ -18,8 +18,7 @@ const newsletter = {
   title: <>Subscribe to {person.firstName}'s Newsletter</>,
   description: (
     <>
-      I occasionally write about design, technology, and share thoughts on the intersection of
-      creativity and engineering.
+      AI Prompt Writing untuk semua sektor,membantu UMKM,profesional, dan berbagai industri memanfaatkan AI tanpa perlu kemampuan teknis.
     </>
   ),
 };
